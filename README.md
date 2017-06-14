@@ -1,5 +1,4 @@
-
-## Quantitative Economics (Python)
+## Quantitative Economics (Python) - Wih my solutions to exercises
 
 A code library for quantitative economic modeling in Python
 
